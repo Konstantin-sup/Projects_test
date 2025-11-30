@@ -1,7 +1,7 @@
 from http.client import responses
 from locale import currency
 
-TOKEN = '8275984816:AAG3rXZA7y8P6O-O2NqJVfz4TsTyX_g2BLM'
+
 import telebot
 import requests
 bot = telebot.TeleBot(TOKEN)
